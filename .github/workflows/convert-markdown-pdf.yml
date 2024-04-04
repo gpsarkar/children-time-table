@@ -1,4 +1,6 @@
 name: Convert Markdown to PDF and Commit
+permissions:
+  contents: write
 
 on:
   push:
